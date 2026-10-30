@@ -1,0 +1,10 @@
+.env
+credentials.txt
+reference
+.git
+tests
+frontend/node_modules
+frontend/dist
+artifacts
+backups
+.env.*

@@ -1,0 +1,48 @@
+{
+  "ready": true,
+  "version": "cartilha-1",
+  "title": "Cheguei!",
+  "description": "Por favor, precisamos do seu feedback para concluir nosso projeto!",
+  "fields": [
+    {
+      "id": "pergunta_1",
+      "label": "Após a leitura da cartilha, você compreendeu melhor como oferecer uma alimentação saudável para a criança?",
+      "type": "radio",
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "required": true
+    },
+    {
+      "id": "pergunta_2",
+      "label": "A cartilha ajudou você a entender como lidar com a recusa e a seletividade alimentar da criança?",
+      "type": "radio",
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "required": true
+    },
+    {
+      "id": "pergunta_3",
+      "label": "Você considera que as orientações da cartilha são claras e podem ser aplicadas no dia a dia da sua família?",
+      "type": "radio",
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "required": true
+    },
+    {
+      "id": "pergunta_4",
+      "label": "Você conseguiu realizar as atividades interativas propostas na cartilha ou considera possível aplicá-las no dia a dia com a criança?",
+      "type": "radio",
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "required": true
+    }
+  ]
+}
